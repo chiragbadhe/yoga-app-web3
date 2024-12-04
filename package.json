@@ -11,7 +11,14 @@
   "dependencies": {
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "next": "15.0.3",
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs": "^2.6.0",
+    "@tensorflow/tfjs-core": "^2.6.0",
+    "ml5": "^0.5.0",
+    "p5": "^1.1.9",
+    "react-lottie": "^1.2.3",
+    "react-webcam": "^5.2.1"
   },
   "devDependencies": {
     "typescript": "^5",
