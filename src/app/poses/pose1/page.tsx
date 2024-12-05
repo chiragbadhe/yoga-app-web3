@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image"; // Import Image from next/image
-import Processor from "../../../components/Processor";
+import Processor from "../../../components/PoseProcessor";
 
 const Pose1: React.FC = () => {
   return (

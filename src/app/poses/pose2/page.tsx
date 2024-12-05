@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import Processor from "../../../components/Processor";
+import Processor from "../../../components/PoseProcessor";
 
 const Pose2: React.FC = () => {
   return (
